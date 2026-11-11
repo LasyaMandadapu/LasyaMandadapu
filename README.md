@@ -26,4 +26,4 @@ I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore
 
 **Tools:** Git | GitHub | VS Code | Jupyter Notebook
 
-** Soft Skills:** Communication | Problem Solving | Team Work | Time Management | Adaptability
+**Soft Skills:** Communication | Problem Solving | Team Work | Time Management | Adaptability
