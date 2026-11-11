@@ -16,7 +16,7 @@ I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore
 
 ## Tech Stack
 
-**Languages:** Python | SQL | Java | JavaScript
+**Languages:** Python | SQL | Java | JavaScript | React Js 
 
 **Data Science & Machine Learning:** Pandas | NumPy | Scikit-learn | SMOTE
 
@@ -24,6 +24,6 @@ I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore
 
 **Web & APIs:** Flask | FastAPI | HTML | CSS
 
-**Tools:** Git | GitHub | VS Code | Jupyter Notebook
+**Tools:** Git | GitHub | VS Code | Jupyter Notebook | POSTMAN
 
 **Soft Skills:** Communication | Problem Solving | Team Work | Time Management | Adaptability
