@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Fellow < Developers/ >! 
+I'm Lasya Mandadapu
+An Enthusiast, Code Lover and Life-Long Learner
 
 <!--
 **LasyaMandadapu/LasyaMandadapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
